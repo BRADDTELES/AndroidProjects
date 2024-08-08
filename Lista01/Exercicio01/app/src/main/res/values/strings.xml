@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">exercicio01</string>
+
+    <string name="text_view_nome">Nome</string>
+    <string name="text_view_resultado">Resultado</string>
+    <string name="button_ler_dados">Ler Dados</string>
+
+</resources>
