@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713025969011",
+    "project_id": "citric-sprite-423013-n4",
+    "storage_bucket": "citric-sprite-423013-n4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713025969011:android:ff56df3a16a3096f6e8306",
+        "android_client_info": {
+          "package_name": "br.com.lojavirtual.loja_virtual_teste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPhmXU--f3iFfYwp16xiSOka5fFCiPho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713025969011:android:6b5c65f0f6f9677d6e8306",
+        "android_client_info": {
+          "package_name": "br.com.teles.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPhmXU--f3iFfYwp16xiSOka5fFCiPho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
