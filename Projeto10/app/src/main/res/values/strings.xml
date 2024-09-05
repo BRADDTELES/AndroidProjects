@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto 10</string>
+
+    <string name="label_aviso">Teste de Aviso</string>
+    <string name="label_confirmar">Teste de Confirmação</string>
+    <string name="label_resultado"></string>
+</resources>
